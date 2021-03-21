@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pps2-dev-232023-authRole",
+      "UnauthRoleArn": "arn:aws:iam::223402655599:role/amplify-pps2-dev-232023-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::223402655599:role/amplify-pps2-dev-232023-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-pps2-dev-232023-deployment",
+      "UnauthRoleName": "amplify-pps2-dev-232023-unauthRole",
+      "StackName": "amplify-pps2-dev-232023",
+      "StackId": "arn:aws:cloudformation:ap-south-1:223402655599:stack/amplify-pps2-dev-232023/eb782500-8a6d-11eb-b44b-06cff199f926",
+      "AmplifyAppId": "d28x95bk92ibml"
+    }
+  }
+}
